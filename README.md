@@ -38,7 +38,6 @@ Esta calculadora de IMC foi desenvolvida para fins educacionais e informativos. 
 
 ## Licença
 
-Este projeto é de código aberto e está disponível sob a licença [Nome da Licença]. Você pode encontrar o código-fonte e contribuir para o projeto em [URL do Repositório].
 
 ---
 
